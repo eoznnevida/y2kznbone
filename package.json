@@ -1,0 +1,13 @@
+{
+  "name": "y2kznbone",
+  "version": "1.0.0",
+  "description": "Backbone de torneios clássicos dinâmicos para Stumble Guys",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
